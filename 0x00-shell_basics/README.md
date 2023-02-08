@@ -1,3 +1,4 @@
+# File 0. Where am I? Writes a script that prints the absolute path name of the current working directory.
 # File i1-listit Displays the contents list of your current directory.
 # File 2-bring_me_home changes the working directory to the user’s home directory
 # File 3-listfiles Displays current directory contents in a long format
