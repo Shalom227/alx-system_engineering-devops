@@ -1,2 +1,2 @@
-A new task on shell scripting that involves Shell input/output redirection and filter adding
-                                                                                                             
+0x02. Shell, I/O Redirections and filters
+
